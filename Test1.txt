@@ -1,1 +1,0 @@
-This file is created in feature branch only and moved to develop/uat branch
